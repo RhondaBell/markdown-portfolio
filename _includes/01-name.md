@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#  Rhonda Bell
+## Thinkful Web Dev Instructor
+## Full-Stack Software Engineer
